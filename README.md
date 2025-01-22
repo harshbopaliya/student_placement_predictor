@@ -99,7 +99,7 @@ Support additional machine learning models for comparison.
 
 Live App: **[Student Placement Predictor](https://careermatch-c90f.onrender.com/)**
 
-Repository: 
+Repository: **[Github Repo](https://github.com/harshbopaliya/student_placement_predictor/tree/main)**
 
 ## 🧥 Contributing
 
@@ -109,4 +109,4 @@ Feel free to fork the project and submit a pull request for enhancements or bug 
 
 This project is licensed under the MIT License.
 
-Enjoy using the Student Placement Predictor
+Enjoy using the Student Placement Predictor 🎓
